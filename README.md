@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Jha</h1>
-<h3 align="center">while (effort!=success): hustle;</h3>
+<h3 align="center">while (effort!=success)hustle();</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyjha007&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyjha007" /> </p>
 
