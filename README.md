@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyjha007&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyjha007" /> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **sunnyjha1512002@gmail.com**
 
